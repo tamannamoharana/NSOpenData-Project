@@ -1,0 +1,1000 @@
+[{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"20520","prevalence":"2229","crude_prevalence_rate":"10.86"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23171","prevalence":"2883","crude_prevalence_rate":"12.44"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"23475","prevalence":"2103","crude_prevalence_rate":"8.96"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"29410","prevalence":"1995","crude_prevalence_rate":"6.78"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"29328","prevalence":"2151","crude_prevalence_rate":"7.33"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"21582","prevalence":"1722","crude_prevalence_rate":"7.98"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"13577","prevalence":"966","crude_prevalence_rate":"7.11"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11175","prevalence":"764","crude_prevalence_rate":"6.84"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"7973","prevalence":"434","crude_prevalence_rate":"5.44"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"21025","prevalence":"3130","crude_prevalence_rate":"14.89"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24205","prevalence":"3563","crude_prevalence_rate":"14.72"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"22118","prevalence":"1177","crude_prevalence_rate":"5.32"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"26849","prevalence":"996","crude_prevalence_rate":"3.71"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"27221","prevalence":"970","crude_prevalence_rate":"3.56"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"20608","prevalence":"760","crude_prevalence_rate":"3.69"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"12718","prevalence":"550","crude_prevalence_rate":"4.32"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"8289","prevalence":"374","crude_prevalence_rate":"4.51"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"3798","prevalence":"183","crude_prevalence_rate":"4.82"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7937","prevalence":"828","crude_prevalence_rate":"10.43"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8077","prevalence":"772","crude_prevalence_rate":"9.56"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8569","prevalence":"531","crude_prevalence_rate":"6.20"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"11131","prevalence":"502","crude_prevalence_rate":"4.51"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13870","prevalence":"672","crude_prevalence_rate":"4.84"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"11414","prevalence":"631","crude_prevalence_rate":"5.53"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"7950","prevalence":"428","crude_prevalence_rate":"5.38"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6336","prevalence":"319","crude_prevalence_rate":"5.03"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5273","prevalence":"235","crude_prevalence_rate":"4.46"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"8385","prevalence":"1203","crude_prevalence_rate":"14.35"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8791","prevalence":"1047","crude_prevalence_rate":"11.91"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8517","prevalence":"344","crude_prevalence_rate":"4.04"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"10854","prevalence":"272","crude_prevalence_rate":"2.51"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"13629","prevalence":"350","crude_prevalence_rate":"2.57"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"11828","prevalence":"317","crude_prevalence_rate":"2.68"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"7718","prevalence":"252","crude_prevalence_rate":"3.27"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5072","prevalence":"197","crude_prevalence_rate":"3.88"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2706","prevalence":"101","crude_prevalence_rate":"3.73"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7445","prevalence":"700","crude_prevalence_rate":"9.40"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7639","prevalence":"811","crude_prevalence_rate":"10.62"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"8460","prevalence":"636","crude_prevalence_rate":"7.52"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"10816","prevalence":"598","crude_prevalence_rate":"5.53"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12084","prevalence":"701","crude_prevalence_rate":"5.80"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"9758","prevalence":"610","crude_prevalence_rate":"6.25"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"6507","prevalence":"388","crude_prevalence_rate":"5.96"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5545","prevalence":"285","crude_prevalence_rate":"5.14"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4436","prevalence":"212","crude_prevalence_rate":"4.78"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"8156","prevalence":"1118","crude_prevalence_rate":"13.71"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8081","prevalence":"932","crude_prevalence_rate":"11.53"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"8313","prevalence":"367","crude_prevalence_rate":"4.41"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"10497","prevalence":"319","crude_prevalence_rate":"3.04"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"11934","prevalence":"349","crude_prevalence_rate":"2.92"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"10018","prevalence":"284","crude_prevalence_rate":"2.83"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"6371","prevalence":"217","crude_prevalence_rate":"3.41"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4332","prevalence":"185","crude_prevalence_rate":"4.27"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2220","prevalence":"100","crude_prevalence_rate":"4.50"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"8833","prevalence":"801","crude_prevalence_rate":"9.07"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"14243","prevalence":"1472","crude_prevalence_rate":"10.33"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"12660","prevalence":"828","crude_prevalence_rate":"6.54"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"10151","prevalence":"530","crude_prevalence_rate":"5.22"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"7285","prevalence":"409","crude_prevalence_rate":"5.61"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"4797","prevalence":"274","crude_prevalence_rate":"5.71"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"2886","prevalence":"161","crude_prevalence_rate":"5.58"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"2244","prevalence":"122","crude_prevalence_rate":"5.44"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1639","prevalence":"67","crude_prevalence_rate":"4.09"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"8586","prevalence":"1144","crude_prevalence_rate":"13.32"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"14489","prevalence":"1684","crude_prevalence_rate":"11.62"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"12458","prevalence":"545","crude_prevalence_rate":"4.37"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"9211","prevalence":"239","crude_prevalence_rate":"2.59"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6814","prevalence":"176","crude_prevalence_rate":"2.58"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4584","prevalence":"131","crude_prevalence_rate":"2.86"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2738","prevalence":"111","crude_prevalence_rate":"4.05"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1606","prevalence":"57","crude_prevalence_rate":"3.55"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"805","prevalence":"36","crude_prevalence_rate":"4.47"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"9158","prevalence":"836","crude_prevalence_rate":"9.13"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9597","prevalence":"997","crude_prevalence_rate":"10.39"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"10324","prevalence":"768","crude_prevalence_rate":"7.44"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"14307","prevalence":"859","crude_prevalence_rate":"6.00"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"16498","prevalence":"938","crude_prevalence_rate":"5.69"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"13854","prevalence":"847","crude_prevalence_rate":"6.11"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"9392","prevalence":"556","crude_prevalence_rate":"5.92"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7542","prevalence":"438","crude_prevalence_rate":"5.81"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6034","prevalence":"258","crude_prevalence_rate":"4.28"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9998","prevalence":"1296","crude_prevalence_rate":"12.96"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10073","prevalence":"1170","crude_prevalence_rate":"11.62"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"10216","prevalence":"409","crude_prevalence_rate":"4.00"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"13831","prevalence":"457","crude_prevalence_rate":"3.30"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"15993","prevalence":"482","crude_prevalence_rate":"3.01"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"13771","prevalence":"446","crude_prevalence_rate":"3.24"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"9321","prevalence":"340","crude_prevalence_rate":"3.65"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"6367","prevalence":"286","crude_prevalence_rate":"4.49"}
+,{"year":"2000-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3440","prevalence":"153","crude_prevalence_rate":"4.45"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"20080","prevalence":"2173","crude_prevalence_rate":"10.82"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23519","prevalence":"3225","crude_prevalence_rate":"13.71"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"23533","prevalence":"2304","crude_prevalence_rate":"9.79"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"29177","prevalence":"2191","crude_prevalence_rate":"7.51"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"30288","prevalence":"2453","crude_prevalence_rate":"8.10"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"22571","prevalence":"1964","crude_prevalence_rate":"8.70"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"13941","prevalence":"1109","crude_prevalence_rate":"7.95"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11226","prevalence":"841","crude_prevalence_rate":"7.49"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"8302","prevalence":"488","crude_prevalence_rate":"5.88"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"20697","prevalence":"3156","crude_prevalence_rate":"15.25"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24567","prevalence":"4044","crude_prevalence_rate":"16.46"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"22276","prevalence":"1395","crude_prevalence_rate":"6.26"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"26681","prevalence":"1099","crude_prevalence_rate":"4.12"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"28299","prevalence":"1132","crude_prevalence_rate":"4.00"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"21391","prevalence":"882","crude_prevalence_rate":"4.12"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"13065","prevalence":"600","crude_prevalence_rate":"4.59"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"8454","prevalence":"424","crude_prevalence_rate":"5.02"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4085","prevalence":"201","crude_prevalence_rate":"4.92"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7900","prevalence":"815","crude_prevalence_rate":"10.32"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8044","prevalence":"901","crude_prevalence_rate":"11.20"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8406","prevalence":"581","crude_prevalence_rate":"6.91"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"10821","prevalence":"539","crude_prevalence_rate":"4.98"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13904","prevalence":"732","crude_prevalence_rate":"5.26"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"11806","prevalence":"740","crude_prevalence_rate":"6.27"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"8076","prevalence":"457","crude_prevalence_rate":"5.66"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6309","prevalence":"346","crude_prevalence_rate":"5.48"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5382","prevalence":"259","crude_prevalence_rate":"4.81"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"8269","prevalence":"1214","crude_prevalence_rate":"14.68"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8846","prevalence":"1217","crude_prevalence_rate":"13.76"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8334","prevalence":"397","crude_prevalence_rate":"4.76"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"10551","prevalence":"292","crude_prevalence_rate":"2.77"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"13608","prevalence":"376","crude_prevalence_rate":"2.76"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"12161","prevalence":"374","crude_prevalence_rate":"3.08"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"7872","prevalence":"266","crude_prevalence_rate":"3.38"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5139","prevalence":"224","crude_prevalence_rate":"4.36"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2734","prevalence":"108","crude_prevalence_rate":"3.95"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7445","prevalence":"696","crude_prevalence_rate":"9.35"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7629","prevalence":"905","crude_prevalence_rate":"11.86"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"8286","prevalence":"708","crude_prevalence_rate":"8.54"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"10577","prevalence":"656","crude_prevalence_rate":"6.20"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12314","prevalence":"804","crude_prevalence_rate":"6.53"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"10070","prevalence":"673","crude_prevalence_rate":"6.68"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"6655","prevalence":"436","crude_prevalence_rate":"6.55"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5511","prevalence":"324","crude_prevalence_rate":"5.88"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4554","prevalence":"225","crude_prevalence_rate":"4.94"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"8114","prevalence":"1111","crude_prevalence_rate":"13.69"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8125","prevalence":"1089","crude_prevalence_rate":"13.40"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"8113","prevalence":"409","crude_prevalence_rate":"5.04"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"10363","prevalence":"346","crude_prevalence_rate":"3.34"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"12008","prevalence":"395","crude_prevalence_rate":"3.29"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"10388","prevalence":"332","crude_prevalence_rate":"3.20"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"6522","prevalence":"218","crude_prevalence_rate":"3.34"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4370","prevalence":"190","crude_prevalence_rate":"4.35"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2323","prevalence":"115","crude_prevalence_rate":"4.95"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"7809","prevalence":"707","crude_prevalence_rate":"9.05"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"13819","prevalence":"1571","crude_prevalence_rate":"11.37"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"12168","prevalence":"884","crude_prevalence_rate":"7.26"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"9849","prevalence":"561","crude_prevalence_rate":"5.70"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"7224","prevalence":"438","crude_prevalence_rate":"6.06"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"4862","prevalence":"312","crude_prevalence_rate":"6.42"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"2846","prevalence":"176","crude_prevalence_rate":"6.18"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"2208","prevalence":"124","crude_prevalence_rate":"5.62"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1638","prevalence":"79","crude_prevalence_rate":"4.82"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"7752","prevalence":"980","crude_prevalence_rate":"12.64"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"13808","prevalence":"1846","crude_prevalence_rate":"13.37"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"12169","prevalence":"574","crude_prevalence_rate":"4.72"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"9012","prevalence":"253","crude_prevalence_rate":"2.81"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6831","prevalence":"190","crude_prevalence_rate":"2.78"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4661","prevalence":"138","crude_prevalence_rate":"2.96"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2751","prevalence":"118","crude_prevalence_rate":"4.29"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1565","prevalence":"59","crude_prevalence_rate":"3.77"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"791","prevalence":"42","crude_prevalence_rate":"5.31"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"9205","prevalence":"822","crude_prevalence_rate":"8.93"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9577","prevalence":"1123","crude_prevalence_rate":"11.73"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"10088","prevalence":"845","crude_prevalence_rate":"8.38"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"13901","prevalence":"893","crude_prevalence_rate":"6.42"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"16752","prevalence":"1052","crude_prevalence_rate":"6.28"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"14302","prevalence":"984","crude_prevalence_rate":"6.88"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"9580","prevalence":"598","crude_prevalence_rate":"6.24"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7548","prevalence":"475","crude_prevalence_rate":"6.29"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6201","prevalence":"300","crude_prevalence_rate":"4.84"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9901","prevalence":"1307","crude_prevalence_rate":"13.20"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10127","prevalence":"1381","crude_prevalence_rate":"13.64"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"10038","prevalence":"460","crude_prevalence_rate":"4.58"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"13346","prevalence":"501","crude_prevalence_rate":"3.75"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"16202","prevalence":"541","crude_prevalence_rate":"3.34"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"14237","prevalence":"509","crude_prevalence_rate":"3.58"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"9581","prevalence":"390","crude_prevalence_rate":"4.07"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"6431","prevalence":"288","crude_prevalence_rate":"4.48"}
+,{"year":"2001-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3524","prevalence":"184","crude_prevalence_rate":"5.22"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19774","prevalence":"2109","crude_prevalence_rate":"10.67"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23672","prevalence":"3589","crude_prevalence_rate":"15.16"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"23760","prevalence":"2549","crude_prevalence_rate":"10.73"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28856","prevalence":"2333","crude_prevalence_rate":"8.08"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"31289","prevalence":"2742","crude_prevalence_rate":"8.76"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"23449","prevalence":"2174","crude_prevalence_rate":"9.27"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"14443","prevalence":"1296","crude_prevalence_rate":"8.97"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11242","prevalence":"881","crude_prevalence_rate":"7.84"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"8555","prevalence":"540","crude_prevalence_rate":"6.31"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"20340","prevalence":"3099","crude_prevalence_rate":"15.24"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24795","prevalence":"4490","crude_prevalence_rate":"18.11"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"22578","prevalence":"1581","crude_prevalence_rate":"7.00"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"26319","prevalence":"1206","crude_prevalence_rate":"4.58"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"29334","prevalence":"1257","crude_prevalence_rate":"4.29"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"22282","prevalence":"1010","crude_prevalence_rate":"4.53"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"13524","prevalence":"653","crude_prevalence_rate":"4.83"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"8663","prevalence":"454","crude_prevalence_rate":"5.24"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4268","prevalence":"226","crude_prevalence_rate":"5.30"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7764","prevalence":"797","crude_prevalence_rate":"10.27"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8085","prevalence":"1000","crude_prevalence_rate":"12.37"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8278","prevalence":"635","crude_prevalence_rate":"7.67"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"10419","prevalence":"581","crude_prevalence_rate":"5.58"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13969","prevalence":"766","crude_prevalence_rate":"5.48"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"12189","prevalence":"808","crude_prevalence_rate":"6.63"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"8274","prevalence":"511","crude_prevalence_rate":"6.18"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6318","prevalence":"375","crude_prevalence_rate":"5.94"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5448","prevalence":"272","crude_prevalence_rate":"4.99"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"8166","prevalence":"1186","crude_prevalence_rate":"14.52"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8849","prevalence":"1409","crude_prevalence_rate":"15.92"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8302","prevalence":"458","crude_prevalence_rate":"5.52"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"10177","prevalence":"304","crude_prevalence_rate":"2.99"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"13537","prevalence":"425","crude_prevalence_rate":"3.14"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"12528","prevalence":"394","crude_prevalence_rate":"3.14"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"8112","prevalence":"302","crude_prevalence_rate":"3.72"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5208","prevalence":"226","crude_prevalence_rate":"4.34"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2738","prevalence":"115","crude_prevalence_rate":"4.20"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7393","prevalence":"701","crude_prevalence_rate":"9.48"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7657","prevalence":"1002","crude_prevalence_rate":"13.09"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"8154","prevalence":"747","crude_prevalence_rate":"9.16"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"10312","prevalence":"726","crude_prevalence_rate":"7.04"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12446","prevalence":"883","crude_prevalence_rate":"7.09"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"10377","prevalence":"770","crude_prevalence_rate":"7.42"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"6888","prevalence":"487","crude_prevalence_rate":"7.07"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5522","prevalence":"356","crude_prevalence_rate":"6.45"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4608","prevalence":"237","crude_prevalence_rate":"5.14"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"8015","prevalence":"1115","crude_prevalence_rate":"13.91"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8181","prevalence":"1235","crude_prevalence_rate":"15.10"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7968","prevalence":"453","crude_prevalence_rate":"5.69"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"10194","prevalence":"355","crude_prevalence_rate":"3.48"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"12069","prevalence":"460","crude_prevalence_rate":"3.81"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"10630","prevalence":"359","crude_prevalence_rate":"3.38"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"6819","prevalence":"249","crude_prevalence_rate":"3.65"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4435","prevalence":"198","crude_prevalence_rate":"4.46"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2382","prevalence":"110","crude_prevalence_rate":"4.62"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"7076","prevalence":"631","crude_prevalence_rate":"8.92"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"13291","prevalence":"1643","crude_prevalence_rate":"12.36"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"11948","prevalence":"924","crude_prevalence_rate":"7.73"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"9497","prevalence":"559","crude_prevalence_rate":"5.89"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"7259","prevalence":"464","crude_prevalence_rate":"6.39"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"4964","prevalence":"341","crude_prevalence_rate":"6.87"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"2895","prevalence":"189","crude_prevalence_rate":"6.53"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"2091","prevalence":"113","crude_prevalence_rate":"5.40"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1647","prevalence":"91","crude_prevalence_rate":"5.53"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"6947","prevalence":"844","crude_prevalence_rate":"12.15"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"13173","prevalence":"1912","crude_prevalence_rate":"14.51"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"11909","prevalence":"662","crude_prevalence_rate":"5.56"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"8812","prevalence":"267","crude_prevalence_rate":"3.03"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6876","prevalence":"216","crude_prevalence_rate":"3.14"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4662","prevalence":"139","crude_prevalence_rate":"2.98"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2790","prevalence":"125","crude_prevalence_rate":"4.48"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1547","prevalence":"66","crude_prevalence_rate":"4.27"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"808","prevalence":"38","crude_prevalence_rate":"4.70"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"9105","prevalence":"800","crude_prevalence_rate":"8.79"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9606","prevalence":"1250","crude_prevalence_rate":"13.01"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9945","prevalence":"929","crude_prevalence_rate":"9.34"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"13432","prevalence":"950","crude_prevalence_rate":"7.07"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"16952","prevalence":"1172","crude_prevalence_rate":"6.91"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"14674","prevalence":"1098","crude_prevalence_rate":"7.48"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"9925","prevalence":"678","crude_prevalence_rate":"6.83"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7587","prevalence":"512","crude_prevalence_rate":"6.75"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6292","prevalence":"336","crude_prevalence_rate":"5.34"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9779","prevalence":"1278","crude_prevalence_rate":"13.07"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10217","prevalence":"1591","crude_prevalence_rate":"15.57"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9871","prevalence":"503","crude_prevalence_rate":"5.10"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"12969","prevalence":"532","crude_prevalence_rate":"4.10"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"16389","prevalence":"582","crude_prevalence_rate":"3.55"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"14601","prevalence":"555","crude_prevalence_rate":"3.80"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"9894","prevalence":"435","crude_prevalence_rate":"4.40"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"6480","prevalence":"307","crude_prevalence_rate":"4.74"}
+,{"year":"2002-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3627","prevalence":"195","crude_prevalence_rate":"5.38"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19489","prevalence":"2002","crude_prevalence_rate":"10.27"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23903","prevalence":"3918","crude_prevalence_rate":"16.39"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"24009","prevalence":"2754","crude_prevalence_rate":"11.47"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28577","prevalence":"2456","crude_prevalence_rate":"8.59"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"32038","prevalence":"3027","crude_prevalence_rate":"9.45"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"24468","prevalence":"2417","crude_prevalence_rate":"9.88"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"14963","prevalence":"1424","crude_prevalence_rate":"9.52"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11307","prevalence":"920","crude_prevalence_rate":"8.14"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"8796","prevalence":"588","crude_prevalence_rate":"6.68"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"20083","prevalence":"3027","crude_prevalence_rate":"15.07"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24984","prevalence":"4938","crude_prevalence_rate":"19.76"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"23124","prevalence":"1802","crude_prevalence_rate":"7.79"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"25977","prevalence":"1300","crude_prevalence_rate":"5.00"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"30228","prevalence":"1406","crude_prevalence_rate":"4.65"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"23194","prevalence":"1090","crude_prevalence_rate":"4.70"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"14068","prevalence":"739","crude_prevalence_rate":"5.25"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"8821","prevalence":"475","crude_prevalence_rate":"5.38"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4392","prevalence":"236","crude_prevalence_rate":"5.37"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7635","prevalence":"769","crude_prevalence_rate":"10.07"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8150","prevalence":"1146","crude_prevalence_rate":"14.06"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8227","prevalence":"669","crude_prevalence_rate":"8.13"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"10105","prevalence":"628","crude_prevalence_rate":"6.21"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13874","prevalence":"821","crude_prevalence_rate":"5.92"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"12510","prevalence":"873","crude_prevalence_rate":"6.98"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"8505","prevalence":"570","crude_prevalence_rate":"6.70"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6344","prevalence":"384","crude_prevalence_rate":"6.05"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5440","prevalence":"291","crude_prevalence_rate":"5.35"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"8117","prevalence":"1188","crude_prevalence_rate":"14.64"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8825","prevalence":"1535","crude_prevalence_rate":"17.39"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8365","prevalence":"518","crude_prevalence_rate":"6.19"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9881","prevalence":"339","crude_prevalence_rate":"3.43"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"13370","prevalence":"442","crude_prevalence_rate":"3.31"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"12903","prevalence":"448","crude_prevalence_rate":"3.47"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"8418","prevalence":"323","crude_prevalence_rate":"3.84"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5186","prevalence":"216","crude_prevalence_rate":"4.17"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2793","prevalence":"119","crude_prevalence_rate":"4.26"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7413","prevalence":"710","crude_prevalence_rate":"9.58"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7667","prevalence":"1070","crude_prevalence_rate":"13.96"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"8056","prevalence":"817","crude_prevalence_rate":"10.14"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"10142","prevalence":"787","crude_prevalence_rate":"7.76"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12463","prevalence":"951","crude_prevalence_rate":"7.63"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"10797","prevalence":"873","crude_prevalence_rate":"8.09"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"7121","prevalence":"536","crude_prevalence_rate":"7.53"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5523","prevalence":"386","crude_prevalence_rate":"6.99"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4623","prevalence":"252","crude_prevalence_rate":"5.45"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7938","prevalence":"1168","crude_prevalence_rate":"14.71"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8206","prevalence":"1367","crude_prevalence_rate":"16.66"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7969","prevalence":"512","crude_prevalence_rate":"6.42"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9905","prevalence":"376","crude_prevalence_rate":"3.80"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"12166","prevalence":"487","crude_prevalence_rate":"4.00"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"10946","prevalence":"405","crude_prevalence_rate":"3.70"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"7112","prevalence":"267","crude_prevalence_rate":"3.75"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4510","prevalence":"203","crude_prevalence_rate":"4.50"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2398","prevalence":"123","crude_prevalence_rate":"5.13"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"6345","prevalence":"524","crude_prevalence_rate":"8.26"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"12671","prevalence":"1673","crude_prevalence_rate":"13.20"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"12041","prevalence":"1009","crude_prevalence_rate":"8.38"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"9096","prevalence":"564","crude_prevalence_rate":"6.20"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"7260","prevalence":"486","crude_prevalence_rate":"6.69"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"5053","prevalence":"357","crude_prevalence_rate":"7.07"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"2966","prevalence":"208","crude_prevalence_rate":"7.01"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"2021","prevalence":"122","crude_prevalence_rate":"6.04"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1620","prevalence":"89","crude_prevalence_rate":"5.49"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"6325","prevalence":"739","crude_prevalence_rate":"11.68"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"12380","prevalence":"1976","crude_prevalence_rate":"15.96"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"11788","prevalence":"785","crude_prevalence_rate":"6.66"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"8546","prevalence":"265","crude_prevalence_rate":"3.10"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6974","prevalence":"225","crude_prevalence_rate":"3.23"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4683","prevalence":"145","crude_prevalence_rate":"3.10"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2789","prevalence":"134","crude_prevalence_rate":"4.80"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1554","prevalence":"70","crude_prevalence_rate":"4.50"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"803","prevalence":"39","crude_prevalence_rate":"4.86"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"9015","prevalence":"816","crude_prevalence_rate":"9.05"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9664","prevalence":"1366","crude_prevalence_rate":"14.13"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9884","prevalence":"1004","crude_prevalence_rate":"10.16"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"12881","prevalence":"991","crude_prevalence_rate":"7.69"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"17201","prevalence":"1259","crude_prevalence_rate":"7.32"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"15074","prevalence":"1214","crude_prevalence_rate":"8.05"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"10284","prevalence":"751","crude_prevalence_rate":"7.30"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7637","prevalence":"534","crude_prevalence_rate":"6.99"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6390","prevalence":"360","crude_prevalence_rate":"5.63"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9634","prevalence":"1295","crude_prevalence_rate":"13.44"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10327","prevalence":"1771","crude_prevalence_rate":"17.15"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9818","prevalence":"591","crude_prevalence_rate":"6.02"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"12548","prevalence":"549","crude_prevalence_rate":"4.38"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"16531","prevalence":"658","crude_prevalence_rate":"3.98"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"15003","prevalence":"588","crude_prevalence_rate":"3.92"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"10217","prevalence":"479","crude_prevalence_rate":"4.69"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"6603","prevalence":"326","crude_prevalence_rate":"4.94"}
+,{"year":"2003-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3707","prevalence":"205","crude_prevalence_rate":"5.53"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19197","prevalence":"1942","crude_prevalence_rate":"10.12"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23931","prevalence":"4236","crude_prevalence_rate":"17.70"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"24434","prevalence":"2970","crude_prevalence_rate":"12.16"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28163","prevalence":"2640","crude_prevalence_rate":"9.37"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"32658","prevalence":"3219","crude_prevalence_rate":"9.86"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"25516","prevalence":"2648","crude_prevalence_rate":"10.38"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"15558","prevalence":"1591","crude_prevalence_rate":"10.23"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11394","prevalence":"963","crude_prevalence_rate":"8.45"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"8973","prevalence":"638","crude_prevalence_rate":"7.11"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"19742","prevalence":"3029","crude_prevalence_rate":"15.34"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"25069","prevalence":"5313","crude_prevalence_rate":"21.19"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"23630","prevalence":"2104","crude_prevalence_rate":"8.90"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"25732","prevalence":"1386","crude_prevalence_rate":"5.39"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"30885","prevalence":"1563","crude_prevalence_rate":"5.06"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"24093","prevalence":"1167","crude_prevalence_rate":"4.84"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"14630","prevalence":"818","crude_prevalence_rate":"5.59"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"9025","prevalence":"507","crude_prevalence_rate":"5.62"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4542","prevalence":"252","crude_prevalence_rate":"5.55"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7576","prevalence":"737","crude_prevalence_rate":"9.73"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8200","prevalence":"1261","crude_prevalence_rate":"15.38"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8142","prevalence":"714","crude_prevalence_rate":"8.77"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9770","prevalence":"652","crude_prevalence_rate":"6.67"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13787","prevalence":"868","crude_prevalence_rate":"6.30"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"12906","prevalence":"939","crude_prevalence_rate":"7.28"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"8809","prevalence":"635","crude_prevalence_rate":"7.21"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6321","prevalence":"391","crude_prevalence_rate":"6.19"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5490","prevalence":"310","crude_prevalence_rate":"5.65"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"8008","prevalence":"1147","crude_prevalence_rate":"14.32"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8870","prevalence":"1698","crude_prevalence_rate":"19.14"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8342","prevalence":"595","crude_prevalence_rate":"7.13"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9667","prevalence":"370","crude_prevalence_rate":"3.83"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"13168","prevalence":"464","crude_prevalence_rate":"3.52"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13366","prevalence":"482","crude_prevalence_rate":"3.61"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"8627","prevalence":"355","crude_prevalence_rate":"4.11"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5228","prevalence":"222","crude_prevalence_rate":"4.25"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2846","prevalence":"132","crude_prevalence_rate":"4.64"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7358","prevalence":"716","crude_prevalence_rate":"9.73"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7696","prevalence":"1199","crude_prevalence_rate":"15.58"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7978","prevalence":"855","crude_prevalence_rate":"10.72"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9971","prevalence":"857","crude_prevalence_rate":"8.59"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12441","prevalence":"1004","crude_prevalence_rate":"8.07"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"11277","prevalence":"974","crude_prevalence_rate":"8.64"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"7298","prevalence":"590","crude_prevalence_rate":"8.08"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5490","prevalence":"421","crude_prevalence_rate":"7.67"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4729","prevalence":"262","crude_prevalence_rate":"5.54"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7847","prevalence":"1172","crude_prevalence_rate":"14.94"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8258","prevalence":"1524","crude_prevalence_rate":"18.45"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"8019","prevalence":"586","crude_prevalence_rate":"7.31"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9594","prevalence":"409","crude_prevalence_rate":"4.26"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"12228","prevalence":"523","crude_prevalence_rate":"4.28"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"11304","prevalence":"457","crude_prevalence_rate":"4.04"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"7432","prevalence":"283","crude_prevalence_rate":"3.81"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4545","prevalence":"209","crude_prevalence_rate":"4.60"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2477","prevalence":"133","crude_prevalence_rate":"5.37"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"5804","prevalence":"466","crude_prevalence_rate":"8.03"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"12023","prevalence":"1675","crude_prevalence_rate":"13.93"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"11999","prevalence":"1066","crude_prevalence_rate":"8.88"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"8789","prevalence":"584","crude_prevalence_rate":"6.64"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"7237","prevalence":"510","crude_prevalence_rate":"7.05"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"5158","prevalence":"394","crude_prevalence_rate":"7.64"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3033","prevalence":"215","crude_prevalence_rate":"7.09"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1963","prevalence":"128","crude_prevalence_rate":"6.52"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1596","prevalence":"97","crude_prevalence_rate":"6.08"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"5803","prevalence":"636","crude_prevalence_rate":"10.96"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"11671","prevalence":"2004","crude_prevalence_rate":"17.17"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"11699","prevalence":"869","crude_prevalence_rate":"7.43"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"8275","prevalence":"276","crude_prevalence_rate":"3.34"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6954","prevalence":"239","crude_prevalence_rate":"3.44"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4802","prevalence":"159","crude_prevalence_rate":"3.31"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2810","prevalence":"120","crude_prevalence_rate":"4.27"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1544","prevalence":"76","crude_prevalence_rate":"4.92"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"802","prevalence":"39","crude_prevalence_rate":"4.86"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8902","prevalence":"845","crude_prevalence_rate":"9.49"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9739","prevalence":"1499","crude_prevalence_rate":"15.39"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9833","prevalence":"1059","crude_prevalence_rate":"10.77"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"12455","prevalence":"1041","crude_prevalence_rate":"8.36"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"17280","prevalence":"1393","crude_prevalence_rate":"8.06"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"15595","prevalence":"1337","crude_prevalence_rate":"8.57"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"10608","prevalence":"840","crude_prevalence_rate":"7.92"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7697","prevalence":"548","crude_prevalence_rate":"7.12"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6433","prevalence":"397","crude_prevalence_rate":"6.17"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9460","prevalence":"1323","crude_prevalence_rate":"13.99"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10309","prevalence":"1940","crude_prevalence_rate":"18.82"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9784","prevalence":"669","crude_prevalence_rate":"6.84"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"12111","prevalence":"584","crude_prevalence_rate":"4.82"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"16601","prevalence":"713","crude_prevalence_rate":"4.29"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"15411","prevalence":"649","crude_prevalence_rate":"4.21"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"10560","prevalence":"499","crude_prevalence_rate":"4.73"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"6736","prevalence":"352","crude_prevalence_rate":"5.23"}
+,{"year":"2004-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3746","prevalence":"206","crude_prevalence_rate":"5.50"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"18843","prevalence":"1855","crude_prevalence_rate":"9.84"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"24119","prevalence":"4561","crude_prevalence_rate":"18.91"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"24753","prevalence":"3145","crude_prevalence_rate":"12.71"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28195","prevalence":"2861","crude_prevalence_rate":"10.15"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"32938","prevalence":"3409","crude_prevalence_rate":"10.35"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"26659","prevalence":"2954","crude_prevalence_rate":"11.08"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"16270","prevalence":"1734","crude_prevalence_rate":"10.66"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11350","prevalence":"996","crude_prevalence_rate":"8.78"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"9150","prevalence":"676","crude_prevalence_rate":"7.39"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"19597","prevalence":"2946","crude_prevalence_rate":"15.03"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24978","prevalence":"5673","crude_prevalence_rate":"22.71"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"24081","prevalence":"2457","crude_prevalence_rate":"10.20"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"25711","prevalence":"1474","crude_prevalence_rate":"5.73"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"31304","prevalence":"1694","crude_prevalence_rate":"5.41"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"25057","prevalence":"1295","crude_prevalence_rate":"5.17"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"15285","prevalence":"876","crude_prevalence_rate":"5.73"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"9255","prevalence":"523","crude_prevalence_rate":"5.65"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4656","prevalence":"284","crude_prevalence_rate":"6.10"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7464","prevalence":"710","crude_prevalence_rate":"9.51"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8230","prevalence":"1379","crude_prevalence_rate":"16.76"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8113","prevalence":"758","crude_prevalence_rate":"9.34"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9580","prevalence":"695","crude_prevalence_rate":"7.25"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13574","prevalence":"919","crude_prevalence_rate":"6.77"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"13299","prevalence":"1024","crude_prevalence_rate":"7.70"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"9035","prevalence":"680","crude_prevalence_rate":"7.53"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6373","prevalence":"402","crude_prevalence_rate":"6.31"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5483","prevalence":"314","crude_prevalence_rate":"5.73"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"7846","prevalence":"1086","crude_prevalence_rate":"13.84"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8898","prevalence":"1846","crude_prevalence_rate":"20.75"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8310","prevalence":"675","crude_prevalence_rate":"8.12"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9547","prevalence":"427","crude_prevalence_rate":"4.47"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"12926","prevalence":"494","crude_prevalence_rate":"3.82"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13605","prevalence":"527","crude_prevalence_rate":"3.87"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"8907","prevalence":"375","crude_prevalence_rate":"4.21"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5336","prevalence":"240","crude_prevalence_rate":"4.50"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2874","prevalence":"129","crude_prevalence_rate":"4.49"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7297","prevalence":"713","crude_prevalence_rate":"9.77"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7768","prevalence":"1279","crude_prevalence_rate":"16.46"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7959","prevalence":"932","crude_prevalence_rate":"11.71"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9740","prevalence":"898","crude_prevalence_rate":"9.22"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12434","prevalence":"1066","crude_prevalence_rate":"8.57"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"11577","prevalence":"1049","crude_prevalence_rate":"9.06"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"7581","prevalence":"651","crude_prevalence_rate":"8.59"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5507","prevalence":"421","crude_prevalence_rate":"7.64"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4788","prevalence":"281","crude_prevalence_rate":"5.87"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7786","prevalence":"1137","crude_prevalence_rate":"14.60"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8337","prevalence":"1697","crude_prevalence_rate":"20.36"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7973","prevalence":"660","crude_prevalence_rate":"8.28"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9445","prevalence":"442","crude_prevalence_rate":"4.68"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"12143","prevalence":"535","crude_prevalence_rate":"4.41"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"11612","prevalence":"502","crude_prevalence_rate":"4.32"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"7671","prevalence":"312","crude_prevalence_rate":"4.07"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4641","prevalence":"212","crude_prevalence_rate":"4.57"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2527","prevalence":"132","crude_prevalence_rate":"5.22"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"5269","prevalence":"392","crude_prevalence_rate":"7.44"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"11241","prevalence":"1659","crude_prevalence_rate":"14.76"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"11830","prevalence":"1136","crude_prevalence_rate":"9.60"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"8521","prevalence":"577","crude_prevalence_rate":"6.77"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"7143","prevalence":"532","crude_prevalence_rate":"7.45"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"5194","prevalence":"421","crude_prevalence_rate":"8.11"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3091","prevalence":"231","crude_prevalence_rate":"7.47"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1855","prevalence":"135","crude_prevalence_rate":"7.28"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1595","prevalence":"88","crude_prevalence_rate":"5.52"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"5400","prevalence":"578","crude_prevalence_rate":"10.70"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"10690","prevalence":"1935","crude_prevalence_rate":"18.10"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"11520","prevalence":"976","crude_prevalence_rate":"8.47"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"7955","prevalence":"301","crude_prevalence_rate":"3.78"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6878","prevalence":"249","crude_prevalence_rate":"3.62"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4848","prevalence":"170","crude_prevalence_rate":"3.51"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2826","prevalence":"129","crude_prevalence_rate":"4.56"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1529","prevalence":"68","crude_prevalence_rate":"4.45"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"799","prevalence":"36","crude_prevalence_rate":"4.51"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8765","prevalence":"880","crude_prevalence_rate":"10.04"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9820","prevalence":"1644","crude_prevalence_rate":"16.74"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9806","prevalence":"1119","crude_prevalence_rate":"11.41"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"12087","prevalence":"1108","crude_prevalence_rate":"9.17"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"17219","prevalence":"1482","crude_prevalence_rate":"8.61"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"15987","prevalence":"1447","crude_prevalence_rate":"9.05"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"11042","prevalence":"925","crude_prevalence_rate":"8.38"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7757","prevalence":"583","crude_prevalence_rate":"7.52"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6468","prevalence":"399","crude_prevalence_rate":"6.17"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9305","prevalence":"1345","crude_prevalence_rate":"14.45"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10403","prevalence":"2124","crude_prevalence_rate":"20.42"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9726","prevalence":"744","crude_prevalence_rate":"7.65"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"11861","prevalence":"622","crude_prevalence_rate":"5.24"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"16500","prevalence":"788","crude_prevalence_rate":"4.78"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"15692","prevalence":"701","crude_prevalence_rate":"4.47"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"10950","prevalence":"539","crude_prevalence_rate":"4.92"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"6875","prevalence":"347","crude_prevalence_rate":"5.05"}
+,{"year":"2005-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3828","prevalence":"226","crude_prevalence_rate":"5.90"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"18770","prevalence":"1823","crude_prevalence_rate":"9.71"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"24049","prevalence":"4685","crude_prevalence_rate":"19.48"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"25210","prevalence":"3415","crude_prevalence_rate":"13.55"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28270","prevalence":"3021","crude_prevalence_rate":"10.69"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"33209","prevalence":"3647","crude_prevalence_rate":"10.98"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"27306","prevalence":"3065","crude_prevalence_rate":"11.22"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"17388","prevalence":"1988","crude_prevalence_rate":"11.43"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11409","prevalence":"1054","crude_prevalence_rate":"9.24"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"9433","prevalence":"714","crude_prevalence_rate":"7.57"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"19406","prevalence":"2885","crude_prevalence_rate":"14.87"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"25018","prevalence":"5947","crude_prevalence_rate":"23.77"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"24563","prevalence":"2781","crude_prevalence_rate":"11.32"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"25865","prevalence":"1576","crude_prevalence_rate":"6.09"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"31540","prevalence":"1785","crude_prevalence_rate":"5.66"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"25813","prevalence":"1448","crude_prevalence_rate":"5.61"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"16324","prevalence":"951","crude_prevalence_rate":"5.83"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"9507","prevalence":"537","crude_prevalence_rate":"5.65"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4813","prevalence":"292","crude_prevalence_rate":"6.07"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7345","prevalence":"674","crude_prevalence_rate":"9.18"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8234","prevalence":"1459","crude_prevalence_rate":"17.72"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8078","prevalence":"835","crude_prevalence_rate":"10.34"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9373","prevalence":"724","crude_prevalence_rate":"7.72"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"13293","prevalence":"935","crude_prevalence_rate":"7.03"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"13417","prevalence":"1049","crude_prevalence_rate":"7.82"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"9509","prevalence":"756","crude_prevalence_rate":"7.95"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6518","prevalence":"427","crude_prevalence_rate":"6.55"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5494","prevalence":"326","crude_prevalence_rate":"5.93"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"7677","prevalence":"1018","crude_prevalence_rate":"13.26"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8920","prevalence":"1965","crude_prevalence_rate":"22.03"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8281","prevalence":"764","crude_prevalence_rate":"9.23"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9297","prevalence":"445","crude_prevalence_rate":"4.79"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"12642","prevalence":"510","crude_prevalence_rate":"4.03"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13667","prevalence":"550","crude_prevalence_rate":"4.02"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"9448","prevalence":"427","crude_prevalence_rate":"4.52"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5434","prevalence":"231","crude_prevalence_rate":"4.25"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2853","prevalence":"141","crude_prevalence_rate":"4.94"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7268","prevalence":"732","crude_prevalence_rate":"10.07"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7819","prevalence":"1339","crude_prevalence_rate":"17.12"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7825","prevalence":"922","crude_prevalence_rate":"11.78"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9646","prevalence":"973","crude_prevalence_rate":"10.09"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12365","prevalence":"1079","crude_prevalence_rate":"8.73"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"11720","prevalence":"1110","crude_prevalence_rate":"9.47"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"8034","prevalence":"743","crude_prevalence_rate":"9.25"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5535","prevalence":"451","crude_prevalence_rate":"8.15"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4834","prevalence":"291","crude_prevalence_rate":"6.02"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7700","prevalence":"1089","crude_prevalence_rate":"14.14"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8493","prevalence":"1822","crude_prevalence_rate":"21.45"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7840","prevalence":"731","crude_prevalence_rate":"9.32"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9381","prevalence":"487","crude_prevalence_rate":"5.19"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"11988","prevalence":"535","crude_prevalence_rate":"4.46"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"11752","prevalence":"539","crude_prevalence_rate":"4.59"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"8189","prevalence":"333","crude_prevalence_rate":"4.07"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4743","prevalence":"223","crude_prevalence_rate":"4.70"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2580","prevalence":"143","crude_prevalence_rate":"5.54"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"4937","prevalence":"355","crude_prevalence_rate":"7.19"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"10296","prevalence":"1590","crude_prevalence_rate":"15.44"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"11597","prevalence":"1188","crude_prevalence_rate":"10.24"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"8101","prevalence":"579","crude_prevalence_rate":"7.15"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"6850","prevalence":"524","crude_prevalence_rate":"7.65"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"5194","prevalence":"426","crude_prevalence_rate":"8.20"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3227","prevalence":"268","crude_prevalence_rate":"8.30"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1786","prevalence":"134","crude_prevalence_rate":"7.50"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1653","prevalence":"94","crude_prevalence_rate":"5.69"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"4994","prevalence":"506","crude_prevalence_rate":"10.13"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"9707","prevalence":"1831","crude_prevalence_rate":"18.86"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"11045","prevalence":"1043","crude_prevalence_rate":"9.44"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"7523","prevalence":"328","crude_prevalence_rate":"4.36"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6678","prevalence":"248","crude_prevalence_rate":"3.71"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4806","prevalence":"172","crude_prevalence_rate":"3.58"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"2950","prevalence":"126","crude_prevalence_rate":"4.27"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1516","prevalence":"79","crude_prevalence_rate":"5.21"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"791","prevalence":"30","crude_prevalence_rate":"3.79"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8702","prevalence":"920","crude_prevalence_rate":"10.57"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9830","prevalence":"1721","crude_prevalence_rate":"17.51"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9771","prevalence":"1200","crude_prevalence_rate":"12.28"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"11942","prevalence":"1186","crude_prevalence_rate":"9.93"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"16908","prevalence":"1534","crude_prevalence_rate":"9.07"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"16158","prevalence":"1506","crude_prevalence_rate":"9.32"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"11768","prevalence":"1054","crude_prevalence_rate":"8.96"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"7823","prevalence":"609","crude_prevalence_rate":"7.78"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6563","prevalence":"429","crude_prevalence_rate":"6.54"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9140","prevalence":"1308","crude_prevalence_rate":"14.31"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10485","prevalence":"2287","crude_prevalence_rate":"21.81"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9683","prevalence":"852","crude_prevalence_rate":"8.80"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"11610","prevalence":"648","crude_prevalence_rate":"5.58"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"16279","prevalence":"815","crude_prevalence_rate":"5.01"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"15847","prevalence":"748","crude_prevalence_rate":"4.72"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"11539","prevalence":"601","crude_prevalence_rate":"5.21"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"7061","prevalence":"379","crude_prevalence_rate":"5.37"}
+,{"year":"2006-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3886","prevalence":"223","crude_prevalence_rate":"5.74"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"18862","prevalence":"1791","crude_prevalence_rate":"9.50"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23957","prevalence":"4758","crude_prevalence_rate":"19.86"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"25666","prevalence":"3617","crude_prevalence_rate":"14.09"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28473","prevalence":"3205","crude_prevalence_rate":"11.26"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"33352","prevalence":"3760","crude_prevalence_rate":"11.27"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"27916","prevalence":"3236","crude_prevalence_rate":"11.59"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"18623","prevalence":"2186","crude_prevalence_rate":"11.74"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11507","prevalence":"1102","crude_prevalence_rate":"9.58"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"9594","prevalence":"734","crude_prevalence_rate":"7.65"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"19523","prevalence":"2754","crude_prevalence_rate":"14.11"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"25061","prevalence":"6069","crude_prevalence_rate":"24.22"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"24866","prevalence":"3131","crude_prevalence_rate":"12.59"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"26160","prevalence":"1698","crude_prevalence_rate":"6.49"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"31446","prevalence":"1853","crude_prevalence_rate":"5.89"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"26601","prevalence":"1582","crude_prevalence_rate":"5.95"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"17445","prevalence":"1031","crude_prevalence_rate":"5.91"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"9706","prevalence":"563","crude_prevalence_rate":"5.80"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"4950","prevalence":"291","crude_prevalence_rate":"5.88"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7263","prevalence":"629","crude_prevalence_rate":"8.66"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8290","prevalence":"1526","crude_prevalence_rate":"18.41"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8028","prevalence":"891","crude_prevalence_rate":"11.10"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9261","prevalence":"775","crude_prevalence_rate":"8.37"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"12836","prevalence":"949","crude_prevalence_rate":"7.39"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"13590","prevalence":"1091","crude_prevalence_rate":"8.03"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"10062","prevalence":"837","crude_prevalence_rate":"8.32"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6547","prevalence":"446","crude_prevalence_rate":"6.81"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5517","prevalence":"331","crude_prevalence_rate":"6.00"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"7661","prevalence":"974","crude_prevalence_rate":"12.71"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8892","prevalence":"2060","crude_prevalence_rate":"23.17"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8321","prevalence":"859","crude_prevalence_rate":"10.32"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9088","prevalence":"475","crude_prevalence_rate":"5.23"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"12329","prevalence":"525","crude_prevalence_rate":"4.26"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13619","prevalence":"573","crude_prevalence_rate":"4.21"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"9963","prevalence":"470","crude_prevalence_rate":"4.72"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5581","prevalence":"260","crude_prevalence_rate":"4.66"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2894","prevalence":"147","crude_prevalence_rate":"5.08"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7305","prevalence":"708","crude_prevalence_rate":"9.69"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7813","prevalence":"1384","crude_prevalence_rate":"17.71"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7823","prevalence":"964","crude_prevalence_rate":"12.32"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9525","prevalence":"1007","crude_prevalence_rate":"10.57"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"12133","prevalence":"1101","crude_prevalence_rate":"9.07"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"11890","prevalence":"1144","crude_prevalence_rate":"9.62"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"8603","prevalence":"802","crude_prevalence_rate":"9.32"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5540","prevalence":"470","crude_prevalence_rate":"8.48"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4873","prevalence":"300","crude_prevalence_rate":"6.16"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7709","prevalence":"1028","crude_prevalence_rate":"13.34"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8590","prevalence":"1924","crude_prevalence_rate":"22.40"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7757","prevalence":"810","crude_prevalence_rate":"10.44"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9241","prevalence":"516","crude_prevalence_rate":"5.58"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"11782","prevalence":"544","crude_prevalence_rate":"4.62"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"11947","prevalence":"562","crude_prevalence_rate":"4.70"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"8615","prevalence":"359","crude_prevalence_rate":"4.17"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4854","prevalence":"239","crude_prevalence_rate":"4.92"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2626","prevalence":"147","crude_prevalence_rate":"5.60"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"4546","prevalence":"320","crude_prevalence_rate":"7.04"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"9293","prevalence":"1449","crude_prevalence_rate":"15.59"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"10959","prevalence":"1206","crude_prevalence_rate":"11.00"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"7658","prevalence":"544","crude_prevalence_rate":"7.10"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"6499","prevalence":"517","crude_prevalence_rate":"7.96"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"5102","prevalence":"420","crude_prevalence_rate":"8.23"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3313","prevalence":"282","crude_prevalence_rate":"8.51"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1789","prevalence":"145","crude_prevalence_rate":"8.11"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1625","prevalence":"100","crude_prevalence_rate":"6.15"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"4695","prevalence":"445","crude_prevalence_rate":"9.48"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"8625","prevalence":"1686","crude_prevalence_rate":"19.55"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"10307","prevalence":"1042","crude_prevalence_rate":"10.11"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"7043","prevalence":"326","crude_prevalence_rate":"4.63"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6294","prevalence":"243","crude_prevalence_rate":"3.86"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4699","prevalence":"179","crude_prevalence_rate":"3.81"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"3012","prevalence":"125","crude_prevalence_rate":"4.15"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1532","prevalence":"81","crude_prevalence_rate":"5.29"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"790","prevalence":"29","crude_prevalence_rate":"3.67"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8658","prevalence":"889","crude_prevalence_rate":"10.27"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9907","prevalence":"1822","crude_prevalence_rate":"18.39"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9718","prevalence":"1263","crude_prevalence_rate":"13.00"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"11763","prevalence":"1252","crude_prevalence_rate":"10.64"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"16546","prevalence":"1584","crude_prevalence_rate":"9.57"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"16376","prevalence":"1559","crude_prevalence_rate":"9.52"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"12446","prevalence":"1176","crude_prevalence_rate":"9.45"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"8007","prevalence":"651","crude_prevalence_rate":"8.13"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6600","prevalence":"443","crude_prevalence_rate":"6.71"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9067","prevalence":"1280","crude_prevalence_rate":"14.12"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10607","prevalence":"2406","crude_prevalence_rate":"22.68"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9623","prevalence":"999","crude_prevalence_rate":"10.38"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"11394","prevalence":"656","crude_prevalence_rate":"5.76"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"15816","prevalence":"854","crude_prevalence_rate":"5.40"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"16126","prevalence":"773","crude_prevalence_rate":"4.79"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"12183","prevalence":"651","crude_prevalence_rate":"5.34"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"7238","prevalence":"403","crude_prevalence_rate":"5.57"}
+,{"year":"2007-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"3972","prevalence":"239","crude_prevalence_rate":"6.02"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19016","prevalence":"1729","crude_prevalence_rate":"9.09"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23704","prevalence":"4766","crude_prevalence_rate":"20.11"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"26203","prevalence":"3881","crude_prevalence_rate":"14.81"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"28817","prevalence":"3393","crude_prevalence_rate":"11.77"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"33285","prevalence":"3847","crude_prevalence_rate":"11.56"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"28893","prevalence":"3409","crude_prevalence_rate":"11.80"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"19638","prevalence":"2432","crude_prevalence_rate":"12.38"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"11745","prevalence":"1158","crude_prevalence_rate":"9.86"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"9748","prevalence":"774","crude_prevalence_rate":"7.94"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"19809","prevalence":"2636","crude_prevalence_rate":"13.31"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24748","prevalence":"6179","crude_prevalence_rate":"24.97"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"25565","prevalence":"3537","crude_prevalence_rate":"13.84"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"26525","prevalence":"1810","crude_prevalence_rate":"6.82"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"31537","prevalence":"1927","crude_prevalence_rate":"6.11"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"27471","prevalence":"1713","crude_prevalence_rate":"6.24"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"18366","prevalence":"1104","crude_prevalence_rate":"6.01"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"9999","prevalence":"612","crude_prevalence_rate":"6.12"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"5122","prevalence":"293","crude_prevalence_rate":"5.72"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7211","prevalence":"606","crude_prevalence_rate":"8.40"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8349","prevalence":"1564","crude_prevalence_rate":"18.73"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"7981","prevalence":"956","crude_prevalence_rate":"11.98"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9173","prevalence":"815","crude_prevalence_rate":"8.88"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"12470","prevalence":"980","crude_prevalence_rate":"7.86"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"13766","prevalence":"1139","crude_prevalence_rate":"8.27"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"10501","prevalence":"917","crude_prevalence_rate":"8.73"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6649","prevalence":"468","crude_prevalence_rate":"7.04"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5558","prevalence":"358","crude_prevalence_rate":"6.44"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"7630","prevalence":"934","crude_prevalence_rate":"12.24"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8897","prevalence":"2129","crude_prevalence_rate":"23.93"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8393","prevalence":"973","crude_prevalence_rate":"11.59"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9036","prevalence":"495","crude_prevalence_rate":"5.48"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"12072","prevalence":"532","crude_prevalence_rate":"4.41"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13649","prevalence":"605","crude_prevalence_rate":"4.43"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"10374","prevalence":"498","crude_prevalence_rate":"4.80"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5753","prevalence":"275","crude_prevalence_rate":"4.78"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2944","prevalence":"152","crude_prevalence_rate":"5.16"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7361","prevalence":"654","crude_prevalence_rate":"8.88"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7886","prevalence":"1437","crude_prevalence_rate":"18.22"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7803","prevalence":"998","crude_prevalence_rate":"12.79"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9507","prevalence":"1060","crude_prevalence_rate":"11.15"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"11934","prevalence":"1158","crude_prevalence_rate":"9.70"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"12053","prevalence":"1198","crude_prevalence_rate":"9.94"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"8987","prevalence":"861","crude_prevalence_rate":"9.58"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5691","prevalence":"491","crude_prevalence_rate":"8.63"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4941","prevalence":"307","crude_prevalence_rate":"6.21"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7687","prevalence":"964","crude_prevalence_rate":"12.54"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8703","prevalence":"2023","crude_prevalence_rate":"23.24"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7789","prevalence":"904","crude_prevalence_rate":"11.61"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9196","prevalence":"538","crude_prevalence_rate":"5.85"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"11687","prevalence":"565","crude_prevalence_rate":"4.83"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"12054","prevalence":"598","crude_prevalence_rate":"4.96"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"9026","prevalence":"386","crude_prevalence_rate":"4.28"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"4991","prevalence":"242","crude_prevalence_rate":"4.85"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2702","prevalence":"162","crude_prevalence_rate":"6.00"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"4211","prevalence":"272","crude_prevalence_rate":"6.46"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"8306","prevalence":"1287","crude_prevalence_rate":"15.49"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"10538","prevalence":"1214","crude_prevalence_rate":"11.52"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"7185","prevalence":"550","crude_prevalence_rate":"7.65"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"6253","prevalence":"507","crude_prevalence_rate":"8.11"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"5026","prevalence":"426","crude_prevalence_rate":"8.48"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3403","prevalence":"275","crude_prevalence_rate":"8.08"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1785","prevalence":"150","crude_prevalence_rate":"8.40"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1611","prevalence":"105","crude_prevalence_rate":"6.52"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"4331","prevalence":"390","crude_prevalence_rate":"9.00"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"7670","prevalence":"1529","crude_prevalence_rate":"19.93"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"9815","prevalence":"1101","crude_prevalence_rate":"11.22"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"6689","prevalence":"320","crude_prevalence_rate":"4.78"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"6011","prevalence":"239","crude_prevalence_rate":"3.98"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4587","prevalence":"186","crude_prevalence_rate":"4.05"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"3098","prevalence":"138","crude_prevalence_rate":"4.45"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1539","prevalence":"74","crude_prevalence_rate":"4.81"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"798","prevalence":"33","crude_prevalence_rate":"4.14"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8635","prevalence":"854","crude_prevalence_rate":"9.89"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9918","prevalence":"1893","crude_prevalence_rate":"19.09"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9775","prevalence":"1343","crude_prevalence_rate":"13.74"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"11535","prevalence":"1299","crude_prevalence_rate":"11.26"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"16270","prevalence":"1629","crude_prevalence_rate":"10.01"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"16629","prevalence":"1619","crude_prevalence_rate":"9.74"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"13044","prevalence":"1283","crude_prevalence_rate":"9.84"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"8205","prevalence":"705","crude_prevalence_rate":"8.59"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6724","prevalence":"472","crude_prevalence_rate":"7.02"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"9017","prevalence":"1264","crude_prevalence_rate":"14.02"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10670","prevalence":"2458","crude_prevalence_rate":"23.04"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9747","prevalence":"1115","crude_prevalence_rate":"11.44"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"11158","prevalence":"675","crude_prevalence_rate":"6.05"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"15533","prevalence":"901","crude_prevalence_rate":"5.80"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"16298","prevalence":"822","crude_prevalence_rate":"5.04"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"12848","prevalence":"707","crude_prevalence_rate":"5.50"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"7402","prevalence":"428","crude_prevalence_rate":"5.78"}
+,{"year":"2008-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"4082","prevalence":"254","crude_prevalence_rate":"6.22"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19052","prevalence":"1630","crude_prevalence_rate":"8.56"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23463","prevalence":"4731","crude_prevalence_rate":"20.16"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"26730","prevalence":"4120","crude_prevalence_rate":"15.41"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"29139","prevalence":"3602","crude_prevalence_rate":"12.36"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"33293","prevalence":"3931","crude_prevalence_rate":"11.81"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"29881","prevalence":"3646","crude_prevalence_rate":"12.20"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"20573","prevalence":"2638","crude_prevalence_rate":"12.82"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"12001","prevalence":"1255","crude_prevalence_rate":"10.46"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"9822","prevalence":"816","crude_prevalence_rate":"8.31"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"20110","prevalence":"2516","crude_prevalence_rate":"12.51"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"24315","prevalence":"6146","crude_prevalence_rate":"25.28"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"26401","prevalence":"3966","crude_prevalence_rate":"15.02"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"26872","prevalence":"1928","crude_prevalence_rate":"7.17"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"31579","prevalence":"2013","crude_prevalence_rate":"6.37"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"28361","prevalence":"1833","crude_prevalence_rate":"6.46"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"19318","prevalence":"1192","crude_prevalence_rate":"6.17"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"10224","prevalence":"635","crude_prevalence_rate":"6.21"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"5318","prevalence":"324","crude_prevalence_rate":"6.09"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7126","prevalence":"549","crude_prevalence_rate":"7.70"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8365","prevalence":"1599","crude_prevalence_rate":"19.12"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8065","prevalence":"1042","crude_prevalence_rate":"12.92"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9088","prevalence":"849","crude_prevalence_rate":"9.34"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"12145","prevalence":"1013","crude_prevalence_rate":"8.34"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"13904","prevalence":"1187","crude_prevalence_rate":"8.54"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"10833","prevalence":"977","crude_prevalence_rate":"9.02"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6790","prevalence":"524","crude_prevalence_rate":"7.72"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5595","prevalence":"353","crude_prevalence_rate":"6.31"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"7561","prevalence":"881","crude_prevalence_rate":"11.65"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8926","prevalence":"2205","crude_prevalence_rate":"24.70"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8424","prevalence":"1090","crude_prevalence_rate":"12.94"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"9024","prevalence":"543","crude_prevalence_rate":"6.02"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"11819","prevalence":"553","crude_prevalence_rate":"4.68"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13620","prevalence":"630","crude_prevalence_rate":"4.63"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"10904","prevalence":"548","crude_prevalence_rate":"5.03"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"5921","prevalence":"301","crude_prevalence_rate":"5.08"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"2995","prevalence":"159","crude_prevalence_rate":"5.31"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7418","prevalence":"623","crude_prevalence_rate":"8.40"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7920","prevalence":"1443","crude_prevalence_rate":"18.22"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7827","prevalence":"1066","crude_prevalence_rate":"13.62"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9421","prevalence":"1093","crude_prevalence_rate":"11.60"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"11756","prevalence":"1177","crude_prevalence_rate":"10.01"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"12253","prevalence":"1244","crude_prevalence_rate":"10.15"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"9410","prevalence":"928","crude_prevalence_rate":"9.86"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5786","prevalence":"516","crude_prevalence_rate":"8.92"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"4981","prevalence":"319","crude_prevalence_rate":"6.40"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7702","prevalence":"913","crude_prevalence_rate":"11.85"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8683","prevalence":"2081","crude_prevalence_rate":"23.97"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"7930","prevalence":"1007","crude_prevalence_rate":"12.70"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"9100","prevalence":"566","crude_prevalence_rate":"6.22"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"11550","prevalence":"597","crude_prevalence_rate":"5.17"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"12176","prevalence":"603","crude_prevalence_rate":"4.95"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"9521","prevalence":"435","crude_prevalence_rate":"4.57"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"5075","prevalence":"246","crude_prevalence_rate":"4.85"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2750","prevalence":"166","crude_prevalence_rate":"6.04"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"3971","prevalence":"239","crude_prevalence_rate":"6.02"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"7223","prevalence":"1148","crude_prevalence_rate":"15.89"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"10190","prevalence":"1253","crude_prevalence_rate":"12.30"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"6760","prevalence":"543","crude_prevalence_rate":"8.03"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"6071","prevalence":"491","crude_prevalence_rate":"8.09"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"4955","prevalence":"416","crude_prevalence_rate":"8.40"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3477","prevalence":"296","crude_prevalence_rate":"8.51"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1774","prevalence":"144","crude_prevalence_rate":"8.12"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1600","prevalence":"110","crude_prevalence_rate":"6.88"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"4116","prevalence":"347","crude_prevalence_rate":"8.43"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"6703","prevalence":"1361","crude_prevalence_rate":"20.30"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"9404","prevalence":"1194","crude_prevalence_rate":"12.70"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"6360","prevalence":"324","crude_prevalence_rate":"5.09"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"5736","prevalence":"222","crude_prevalence_rate":"3.87"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4473","prevalence":"189","crude_prevalence_rate":"4.23"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"3185","prevalence":"138","crude_prevalence_rate":"4.33"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1562","prevalence":"84","crude_prevalence_rate":"5.38"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"815","prevalence":"32","crude_prevalence_rate":"3.93"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8486","prevalence":"806","crude_prevalence_rate":"9.50"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9997","prevalence":"1917","crude_prevalence_rate":"19.18"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9792","prevalence":"1439","crude_prevalence_rate":"14.70"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"11415","prevalence":"1345","crude_prevalence_rate":"11.78"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"15877","prevalence":"1646","crude_prevalence_rate":"10.37"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"16972","prevalence":"1707","crude_prevalence_rate":"10.06"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"13662","prevalence":"1411","crude_prevalence_rate":"10.33"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"8323","prevalence":"745","crude_prevalence_rate":"8.95"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6813","prevalence":"485","crude_prevalence_rate":"7.12"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"8923","prevalence":"1169","crude_prevalence_rate":"13.10"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10660","prevalence":"2506","crude_prevalence_rate":"23.51"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"9867","prevalence":"1311","crude_prevalence_rate":"13.29"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"11017","prevalence":"683","crude_prevalence_rate":"6.20"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"15237","prevalence":"914","crude_prevalence_rate":"6.00"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"16472","prevalence":"889","crude_prevalence_rate":"5.40"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"13507","prevalence":"763","crude_prevalence_rate":"5.65"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"7587","prevalence":"441","crude_prevalence_rate":"5.81"}
+,{"year":"2009-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"4172","prevalence":"265","crude_prevalence_rate":"6.35"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19281","prevalence":"1525","crude_prevalence_rate":"7.91"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"23137","prevalence":"4627","crude_prevalence_rate":"20.00"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"27253","prevalence":"4370","crude_prevalence_rate":"16.03"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"29314","prevalence":"3683","crude_prevalence_rate":"12.56"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"33396","prevalence":"4042","crude_prevalence_rate":"12.10"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"30883","prevalence":"3792","crude_prevalence_rate":"12.28"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"21700","prevalence":"2836","crude_prevalence_rate":"13.07"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"12215","prevalence":"1308","crude_prevalence_rate":"10.71"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"10055","prevalence":"868","crude_prevalence_rate":"8.63"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"20390","prevalence":"2338","crude_prevalence_rate":"11.47"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"10 to 19","population":"23856","prevalence":"6063","crude_prevalence_rate":"25.41"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"20 to 29","population":"27307","prevalence":"4398","crude_prevalence_rate":"16.11"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"30 to 39","population":"27222","prevalence":"2060","crude_prevalence_rate":"7.57"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"40 to 49","population":"31538","prevalence":"2048","crude_prevalence_rate":"6.49"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"50 to 59","population":"29281","prevalence":"1924","crude_prevalence_rate":"6.57"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"60 to 69","population":"20385","prevalence":"1297","crude_prevalence_rate":"6.36"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"70 to 79","population":"10476","prevalence":"674","crude_prevalence_rate":"6.43"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"80 +","population":"5510","prevalence":"334","crude_prevalence_rate":"6.06"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"0 to 9","population":"7085","prevalence":"504","crude_prevalence_rate":"7.11"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"10 to 19","population":"8306","prevalence":"1580","crude_prevalence_rate":"19.02"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"20 to 29","population":"8109","prevalence":"1127","crude_prevalence_rate":"13.90"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"30 to 39","population":"9073","prevalence":"904","crude_prevalence_rate":"9.96"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"40 to 49","population":"11716","prevalence":"1006","crude_prevalence_rate":"8.59"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"50 to 59","population":"14078","prevalence":"1221","crude_prevalence_rate":"8.67"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"60 to 69","population":"11273","prevalence":"1056","crude_prevalence_rate":"9.37"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"70 to 79","population":"6963","prevalence":"562","crude_prevalence_rate":"8.07"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"F","age_group":"80 +","population":"5548","prevalence":"363","crude_prevalence_rate":"6.54"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"0 to 9","population":"7492","prevalence":"790","crude_prevalence_rate":"10.54"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"10 to 19","population":"8797","prevalence":"2235","crude_prevalence_rate":"25.41"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"20 to 29","population":"8643","prevalence":"1242","crude_prevalence_rate":"14.37"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"30 to 39","population":"8926","prevalence":"567","crude_prevalence_rate":"6.35"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"40 to 49","population":"11503","prevalence":"572","crude_prevalence_rate":"4.97"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"50 to 59","population":"13721","prevalence":"656","crude_prevalence_rate":"4.78"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"60 to 69","population":"11297","prevalence":"570","crude_prevalence_rate":"5.05"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"70 to 79","population":"6105","prevalence":"327","crude_prevalence_rate":"5.36"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Eastern","sex":"M","age_group":"80 +","population":"3076","prevalence":"168","crude_prevalence_rate":"5.46"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"0 to 9","population":"7408","prevalence":"580","crude_prevalence_rate":"7.83"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"10 to 19","population":"7905","prevalence":"1420","crude_prevalence_rate":"17.96"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"20 to 29","population":"7913","prevalence":"1146","crude_prevalence_rate":"14.48"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"30 to 39","population":"9268","prevalence":"1128","crude_prevalence_rate":"12.17"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"40 to 49","population":"11594","prevalence":"1191","crude_prevalence_rate":"10.27"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"50 to 59","population":"12513","prevalence":"1288","crude_prevalence_rate":"10.29"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"60 to 69","population":"9785","prevalence":"994","crude_prevalence_rate":"10.16"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"70 to 79","population":"5840","prevalence":"539","crude_prevalence_rate":"9.23"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"F","age_group":"80 +","population":"5077","prevalence":"336","crude_prevalence_rate":"6.62"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"0 to 9","population":"7656","prevalence":"839","crude_prevalence_rate":"10.96"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"10 to 19","population":"8675","prevalence":"2087","crude_prevalence_rate":"24.06"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"20 to 29","population":"8074","prevalence":"1129","crude_prevalence_rate":"13.98"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"30 to 39","population":"8964","prevalence":"593","crude_prevalence_rate":"6.62"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"40 to 49","population":"11404","prevalence":"598","crude_prevalence_rate":"5.24"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"50 to 59","population":"12340","prevalence":"632","crude_prevalence_rate":"5.12"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"60 to 69","population":"9858","prevalence":"478","crude_prevalence_rate":"4.85"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"70 to 79","population":"5263","prevalence":"251","crude_prevalence_rate":"4.77"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Northern","sex":"M","age_group":"80 +","population":"2844","prevalence":"180","crude_prevalence_rate":"6.33"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"0 to 9","population":"3830","prevalence":"227","crude_prevalence_rate":"5.93"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"10 to 19","population":"6229","prevalence":"966","crude_prevalence_rate":"15.51"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"20 to 29","population":"10147","prevalence":"1288","crude_prevalence_rate":"12.69"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"30 to 39","population":"6427","prevalence":"531","crude_prevalence_rate":"8.26"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"40 to 49","population":"5844","prevalence":"464","crude_prevalence_rate":"7.94"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"50 to 59","population":"4932","prevalence":"426","crude_prevalence_rate":"8.64"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"60 to 69","population":"3555","prevalence":"301","crude_prevalence_rate":"8.47"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"70 to 79","population":"1790","prevalence":"154","crude_prevalence_rate":"8.60"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"F","age_group":"80 +","population":"1586","prevalence":"105","crude_prevalence_rate":"6.62"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"0 to 9","population":"3995","prevalence":"319","crude_prevalence_rate":"7.98"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"10 to 19","population":"5842","prevalence":"1169","crude_prevalence_rate":"20.01"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"20 to 29","population":"9426","prevalence":"1301","crude_prevalence_rate":"13.80"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"30 to 39","population":"6004","prevalence":"324","crude_prevalence_rate":"5.40"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"40 to 49","population":"5647","prevalence":"215","crude_prevalence_rate":"3.81"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"50 to 59","population":"4436","prevalence":"202","crude_prevalence_rate":"4.55"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"60 to 69","population":"3248","prevalence":"143","crude_prevalence_rate":"4.40"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"70 to 79","population":"1568","prevalence":"80","crude_prevalence_rate":"5.10"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Unknown","sex":"M","age_group":"80 +","population":"798","prevalence":"31","crude_prevalence_rate":"3.88"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"0 to 9","population":"8455","prevalence":"753","crude_prevalence_rate":"8.91"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"10 to 19","population":"9949","prevalence":"1885","crude_prevalence_rate":"18.95"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"20 to 29","population":"9924","prevalence":"1534","crude_prevalence_rate":"15.46"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"30 to 39","population":"11296","prevalence":"1371","crude_prevalence_rate":"12.14"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"40 to 49","population":"15446","prevalence":"1646","crude_prevalence_rate":"10.66"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"50 to 59","population":"17349","prevalence":"1804","crude_prevalence_rate":"10.40"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"60 to 69","population":"14284","prevalence":"1513","crude_prevalence_rate":"10.59"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"70 to 79","population":"8525","prevalence":"766","crude_prevalence_rate":"8.99"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"F","age_group":"80 +","population":"6946","prevalence":"522","crude_prevalence_rate":"7.52"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"0 to 9","population":"8811","prevalence":"1077","crude_prevalence_rate":"12.22"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"10 to 19","population":"10656","prevalence":"2557","crude_prevalence_rate":"24.00"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"20 to 29","population":"10054","prevalence":"1469","crude_prevalence_rate":"14.61"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"30 to 39","population":"10809","prevalence":"703","crude_prevalence_rate":"6.50"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"40 to 49","population":"14947","prevalence":"899","crude_prevalence_rate":"6.01"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"50 to 59","population":"16830","prevalence":"950","crude_prevalence_rate":"5.64"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"60 to 69","population":"13936","prevalence":"795","crude_prevalence_rate":"5.70"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"70 to 79","population":"7915","prevalence":"476","crude_prevalence_rate":"6.01"}
+,{"year":"2010-01-01T00:00:00.000","zone":"Western","sex":"M","age_group":"80 +","population":"4260","prevalence":"264","crude_prevalence_rate":"6.20"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"0 to 9","population":"19471","prevalence":"1463","crude_prevalence_rate":"7.51"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"10 to 19","population":"22723","prevalence":"4431","crude_prevalence_rate":"19.50"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"20 to 29","population":"27787","prevalence":"4595","crude_prevalence_rate":"16.54"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"30 to 39","population":"29535","prevalence":"3795","crude_prevalence_rate":"12.85"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"40 to 49","population":"33313","prevalence":"4098","crude_prevalence_rate":"12.30"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"50 to 59","population":"31896","prevalence":"3995","crude_prevalence_rate":"12.53"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"60 to 69","population":"22702","prevalence":"2982","crude_prevalence_rate":"13.14"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"70 to 79","population":"12547","prevalence":"1410","crude_prevalence_rate":"11.24"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"F","age_group":"80 +","population":"10264","prevalence":"907","crude_prevalence_rate":"8.84"}
+,{"year":"2011-01-01T00:00:00.000","zone":"Central","sex":"M","age_group":"0 to 9","population":"20641","prevalence":"2137","crude_prevalence_rate":"10.35"}]
