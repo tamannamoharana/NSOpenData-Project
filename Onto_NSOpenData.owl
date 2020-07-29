@@ -1,0 +1,2479 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/tamanna/ontologies/2020/6/Onto_NSOpenData"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/tamanna/ontologies/2020/6/Onto_NSOpenData">
+    <Prefix name="" IRI="http://www.semanticweb.org/tamanna/ontologies/2020/6/untitled-ontology-52"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AttributeProperty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#BusinessandEconomy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CodedProperty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CommunitiesandSocialService"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Community"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DimensionProperty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#GovernmentalAdministration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MeasureProperty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#NatureandEnvironment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionTypes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Year"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#categoryHas"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#codeList"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#community"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentAttachment"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#deptReleased"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#freq"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureDimension"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureType"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observationGroup"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#phase"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryMeasure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#yearRange"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rdfs:range"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#bareLandUnits"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#commercialUnits"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentRequired"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataStructure"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#parkingUnits"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#recreationalUnits"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#residentialUnits"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#totalUnits"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Amherst"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Annapolis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Annually"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Ardoise"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AsNeeded"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#BiAnnually"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CapeBrenton"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#EVResortsCanadaGPLtd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#EasternPassage"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Halifax"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Immigration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ImmigrationandMigration"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MunicipalHousingandAffairs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Municipalities"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#OneTime"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#PortersLake"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ProvidentHoldingsLimited"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Quaterly"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Queens"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RuralMunicipality"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Seniors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ServiceNovaScotia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SevenLakesDevelopmentsLimited"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#community"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#declarant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryApplicant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#yearRange"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#20-29"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2012"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2019"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#30-39"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#40-49"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#50andover"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Dataset"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_SliceKey"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/coverage"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/creator"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/language"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/publisher"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/created"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/license"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/modified"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#altLabel"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#metadataLastUpdated"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AttributeProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#BusinessandEconomy"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CodedProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CommunitiesandSocialService"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept"/>
+            <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+                <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+                <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+        <ObjectMaxCardinality cardinality="1">
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+        </ObjectMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DimensionProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CodedProperty"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DimensionProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#GovernmentalAdministration"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MeasureProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#NatureandEnvironment"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+            <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Amherst"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Amherst"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Annapolis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Annapolis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Annually"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Ardoise"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Community"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Ardoise"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AsNeeded"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#BiAnnually"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CapeBrenton"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CapeBrenton"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#EVResortsCanadaGPLtd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#EasternPassage"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Community"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#EasternPassage"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Halifax"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Halifax"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Immigration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#BusinessandEconomy"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ImmigrationandMigration"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MunicipalHousingandAffairs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#GovernmentalAdministration"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Municipalities"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#OneTime"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#PortersLake"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Community"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#PortersLake"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ProvidentHoldingsLimited"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Quaterly"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Queens"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RuralMunicipality"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RuralMunicipality"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Seniors"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ServiceNovaScotia"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SevenLakesDevelopmentsLimited"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#community"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#declarant"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryApplicant"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#yearRange"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#20-29"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#20-29"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Year"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2012"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Year"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Year"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2019"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#30-39"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#30-39"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#40-49"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#40-49"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#50andover"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#50andover"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ImmigrationandMigration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Immigration"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#20-29"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2012"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#30-39"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2012"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs3"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#40-49"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs3"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2012"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RuralMunicipality"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#20-29"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#30-39"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#40-49"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#50andover"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RuralMunicipality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#yearRange"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#20-29"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#30-39"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#40-49"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#50andover"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CapeBrenton"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Halifax"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Queens"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionalMunicipality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Municipalities"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MunicipalHousingandAffairs"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_SliceKey"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_SliceKey"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Dataset"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Dataset"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_DSD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Amherst"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Annapolis"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#2017"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Town"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_SliceKey"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_SliceKey"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs1"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">318</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">284</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#nominees"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Obs3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">89</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">47516</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs1"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">32241.88</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">193846</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">131533.81</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">6880</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911Grants_Obs3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4668.41</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4746</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3247.53</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dwellingCount"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">367</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#fundsAllotted"/>
+        <NamedIndividual IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4746.0</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#community"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureDimension"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#phase"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observationGroup"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#yearRange"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#categoryHas"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#deptReleased"/>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+    </InverseObjectProperties>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#categoryHas"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#codeList"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#CodedProperty"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#deptReleased"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryMeasure"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#hasTopConcept"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#inScheme"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.w3.org/2004/02/skos/core#topConceptOf"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#belongstoCategory"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#categoryHas"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#codeList"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept"/>
+        <Class IRI="http://www.w3.org/2004/02/skos/core#Concept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#deptReleased"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureType"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MeasureProperty"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observationGroup"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryMeasure"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#MeasureProperty"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#releasedbyDept"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentRequired"/>
+            <Datatype abbreviatedIRI="xsd:boolean"/>
+        </DataSomeValuesFrom>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentRequired"/>
+        <Class IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentRequired"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://purl.org/dc/elements/1.1/coverage</IRI>
+        <Literal xml:lang="en">Coverage will typically include spatial location (a place name
+         or geographic coordinates), temporal period (a period label,
+         date, or date range) or jurisdiction (such as a named
+         administrative entity).
+         Recommended best practice is to select a value from a
+         controlled vocabulary (for example, the Thesaurus of Geographic
+         Names [TGN]) and that, where appropriate, named places or time
+         periods be used in preference to numeric identifiers such as
+         sets of coordinates or date ranges.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/dc/elements/1.1/coverage</IRI>
+        <Literal xml:lang="en">The extent or scope of the content of the resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/elements/1.1/coverage</IRI>
+        <Literal xml:lang="en">coverage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://purl.org/dc/elements/1.1/creator</IRI>
+        <Literal xml:lang="en">Examples of a Creator include a person, an organisation,
+         or a service.  Typically, the name of a Creator should 
+         be used to indicate the entity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/dc/elements/1.1/creator</IRI>
+        <Literal xml:lang="en">An entity primarily responsible for making the content 
+         of the resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/elements/1.1/creator</IRI>
+        <IRI>http://purl.org/dc/elements/1.1/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/elements/1.1/creator</IRI>
+        <Literal xml:lang="en">creator</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://purl.org/dc/elements/1.1/description</IRI>
+        <Literal xml:lang="en">Examples of a Contributor include a person, an 
+         organisation, or a service.  Typically, the name of a 
+         Contributor should be used to indicate the entity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/dc/elements/1.1/description</IRI>
+        <Literal xml:lang="en">An entity responsible for making contributions to the
+         content of the resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/elements/1.1/description</IRI>
+        <IRI>http://purl.org/dc/elements/1.1/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/elements/1.1/description</IRI>
+        <Literal xml:lang="en">description</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://purl.org/dc/elements/1.1/language</IRI>
+        <Literal xml:lang="en">Recommended best practice is to use RFC 3066 [RFC3066],
+         which, in conjunction with ISO 639 [ISO639], defines two-
+         and three-letter primary language tags with optional
+         subtags.  Examples include &quot;en&quot; or &quot;eng&quot; for English,
+         &quot;akk&quot; for Akkadian, and &quot;en-GB&quot; for English used in the
+         United Kingdom.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/dc/elements/1.1/language</IRI>
+        <Literal xml:lang="en">A language of the intellectual content of the resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/elements/1.1/language</IRI>
+        <IRI>http://purl.org/dc/elements/1.1/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/elements/1.1/language</IRI>
+        <Literal xml:lang="en">language</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://purl.org/dc/elements/1.1/publisher</IRI>
+        <Literal xml:lang="en">Examples of a Publisher include a person, an organisation,
+         or a service.
+         Typically, the name of a Publisher should be used to
+         indicate the entity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/dc/elements/1.1/publisher</IRI>
+        <Literal xml:lang="en">An entity responsible for making the resource available</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/elements/1.1/publisher</IRI>
+        <IRI>http://purl.org/dc/elements/1.1/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/elements/1.1/publisher</IRI>
+        <Literal xml:lang="en">publisher</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>http://purl.org/dc/elements/1.1/title</IRI>
+        <Literal xml:lang="en">Typically, a Title will be a name by which the resource is
+         formally known.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://purl.org/dc/elements/1.1/title</IRI>
+        <Literal xml:lang="en">A name given to the resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/elements/1.1/title</IRI>
+        <IRI>http://purl.org/dc/elements/1.1/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/elements/1.1/title</IRI>
+        <Literal xml:lang="en">title</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/terms/created</IRI>
+        <IRI>http://purl.org/dc/terms/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/terms/created</IRI>
+        <Literal xml:lang="en">created</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://purl.org/dc/terms/modified</IRI>
+        <IRI>http://purl.org/dc/terms/</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.org/dc/terms/modified</IRI>
+        <Literal xml:lang="en">modified</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#Concept</IRI>
+        <Literal xml:lang="en">An idea or notion; a unit of thought.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#Concept</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#Concept</IRI>
+        <Literal xml:lang="en">Concept</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#ConceptScheme</IRI>
+        <Literal xml:lang="en">A set of concepts, optionally including statements about semantic relationships between those concepts.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#ConceptScheme</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#ConceptScheme</IRI>
+        <Literal xml:lang="en">Concept Scheme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#altLabel</IRI>
+        <Literal xml:lang="en">The range of skos:altLabel is the class of RDF plain literals.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#altLabel</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#altLabel</IRI>
+        <Literal xml:lang="en">alternate label</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#altLabel</IRI>
+        <Literal xml:lang="en">An alternative lexical label for a resource.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#definition</IRI>
+        <Literal xml:lang="en">A statement or formal explanation of the meaning of a concept.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#definition</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#definition</IRI>
+        <Literal xml:lang="en">definition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#hasTopConcept</IRI>
+        <Literal>Relates, by convention, a concept scheme to a concept which is topmost in the broader/narrower concept hierarchies for that scheme, providing an entry point to these hierarchies.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#hasTopConcept</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#hasTopConcept</IRI>
+        <Literal>has top concept</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#inScheme</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#inScheme</IRI>
+        <Literal>Relates a resource (for example a concept) to a concept scheme in which it is included.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#inScheme</IRI>
+        <Literal>is in Scheme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#prefLabel</IRI>
+        <Literal xml:lang="en">A resource has no more than one value of skos:prefLabel per language tag, and no more than one value of skos:prefLabel without language tag.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#prefLabel</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#prefLabel</IRI>
+        <Literal xml:lang="en">Preferred Label</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.w3.org/2004/02/skos/core#definition"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#prefLabel</IRI>
+        <Literal xml:lang="en">The preferred lexical label for a resource, in a given language.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#topConceptOf</IRI>
+        <Literal xml:lang="en">Relates a concept to the concept scheme that it is a top level concept of.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#topConceptOf</IRI>
+        <IRI>http://www.w3.org/2004/02/skos/core</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.w3.org/2004/02/skos/core#topConceptOf</IRI>
+        <Literal xml:lang="en">is top concept in scheme</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange</IRI>
+        <Literal xml:lang="en">Ranges of age from 20 to 50 and over</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeRange</IRI>
+        <Literal xml:lang="en">Age Range</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/coverage"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">Nova Scotia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">The Nova Scotia Office of Immigration (NSOI) issues nomination certificates to prospective immigrants who meet a labour market need and who will make a contribution to Nova Scotia’s economy. Nominees then apply to Citizenship and Immigration Canada for a permanent resident visa.
+
+Nominees must generally be between the ages of 21 to 55 at time of application, but the Nova Scotia Office of Immigration reserves the right to waive this criteria in exceptional circumstances. This dataset provides the number of certificates issued annually by age range.
+
+The maximum number of certificates that NSOI may issue annually through the Nova Scotia Nominee Program is determined by the federal government.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/language"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">English</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/publisher"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">Open Data Nova Scotia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">Age of Nominees at Time of Application</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/created"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">2017-01-16</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/license"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">Nova Scotia Open Government Licence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/modified"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">2020-02-05</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">Usage Considerations: Current as of February 5, 2020. A nomination by the Province of Nova Scotia does not guarantee that the applicant will become a permanent resident. The federal government has the final decision on who receives permanent residency and is admissible to Canada based on various considerations that include, but are not limited to, health, criminality and security checks.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:seeAlso"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">All other Nominee Program datasets</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#metadataLastUpdated"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#AgeofNominees_Cube</IRI>
+        <Literal xml:lang="en">2020-02-05</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category</IRI>
+        <Literal xml:lang="en">Categories available in Nova Scotia Open Data Portal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Category</IRI>
+        <Literal xml:lang="en">Category</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Community</IRI>
+        <Literal xml:lang="en">Communities in Nova Scotia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Community</IRI>
+        <Literal xml:lang="en">Community</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty</IRI>
+        <Literal xml:lang="en">Abstract super-property of all properties representing dimensions, attributes or measures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentProperty</IRI>
+        <Literal xml:lang="en">Component Property</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet</IRI>
+        <Literal xml:lang="en">Abstract class of things which reference one or more ComponentProperties</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSet</IRI>
+        <Literal xml:lang="en">Component Set</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification</IRI>
+        <Literal xml:lang="en">Used to define properties of a component (attribute, dimension etc) which are specific to its usage in a DSD.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ComponentSpecification</IRI>
+        <Literal xml:lang="en">Component Specification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition</IRI>
+        <Literal xml:lang="en">Defines the structure of a DataSet or slice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#DataStructureDefinition</IRI>
+        <Literal xml:lang="en">Data Structure Definition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset</IRI>
+        <Literal xml:lang="en">Represents a collection of observations, possibly organized into various slices, conforming to some common dimensional structure.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Dataset</IRI>
+        <Literal xml:lang="en">Dataset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department</IRI>
+        <Literal xml:lang="en">Departments listed on Nova Scotia Open Data Portal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Department</IRI>
+        <Literal xml:lang="en">Departments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency</IRI>
+        <Literal xml:lang="en">Frequency of updation of the datasets on Nova Scotia Data Open Portal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Frequency</IRI>
+        <Literal xml:lang="en">Frequency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation</IRI>
+        <Literal>A single observation in the cube, may have one or more associated measured values</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Observation</IRI>
+        <Literal>Observation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup</IRI>
+        <Literal xml:lang="en">A, possibly arbitrary, group of observations.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#ObservationGroup</IRI>
+        <Literal xml:lang="en">Observation Group</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionTypes</IRI>
+        <Literal xml:lang="en">Three different categories of regions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#RegionTypes</IRI>
+        <Literal xml:lang="en">Region Types</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions</IRI>
+        <Literal xml:lang="en">Counties or Municipal areas in Nova Scotia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Regions</IRI>
+        <Literal xml:lang="en">Regions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice</IRI>
+        <Literal xml:lang="en">Denotes a subset of a DataSet defined by fixing a subset of the dimensional values, component properties on the Slice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Slice</IRI>
+        <Literal xml:lang="en">Slice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey</IRI>
+        <Literal xml:lang="en">Denotes a subset of the component properties of a DataSet which are fixed in the corresponding slices</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#SliceKey</IRI>
+        <Literal xml:lang="en">Slice Key</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#Year</IRI>
+        <Literal xml:lang="en">Year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age</IRI>
+        <Literal>The length of time that a person has lived or a thing has existed.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age</IRI>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#age</IRI>
+        <Literal>age</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute</IRI>
+        <Literal xml:lang="en">An alternative to qb:componentProperty which makes explicit that the component is a attribute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#attribute</IRI>
+        <Literal xml:lang="en">attribute</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#codeList</IRI>
+        <Literal xml:lang="en">gives the code list associated with a CodedProperty</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#codeList</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#codeList</IRI>
+        <Literal xml:lang="en">Code List</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component</IRI>
+        <Literal xml:lang="en">indicates a component specification which is included in the structure of the dataset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#component</IRI>
+        <Literal xml:lang="en">Component Specification</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentAttachment</IRI>
+        <Literal>Indicates the level at which the component property should be attached, this might an qb:DataSet, qb:Slice or qb:Observation, or a qb:MeasureProperty.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentAttachment</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentAttachment</IRI>
+        <Literal>Component Attachment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty</IRI>
+        <Literal xml:lang="en">indicates a ComponentProperty (i.e. attribute/dimension) expected on a DataSet, or a dimension fixed in a SliceKey</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#componentProperty</IRI>
+        <Literal xml:lang="en">Component Property</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept</IRI>
+        <Literal xml:lang="en">gives the concept which is being measured or indicated by a ComponentProperty</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#concept</IRI>
+        <Literal xml:lang="en">Concept</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet</IRI>
+        <Literal xml:lang="en">indicates the data set of which this observation is a part</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dataSet</IRI>
+        <Literal xml:lang="en">Data Set</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension</IRI>
+        <Literal xml:lang="en">An alternative to qb:componentProperty which makes explicit that the component is a dimension</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#dimension</IRI>
+        <Literal xml:lang="en">Dimension</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#freq</IRI>
+        <Literal xml:lang="en">The time interval at which observations occur over a given time period.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#freq</IRI>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#freq</IRI>
+        <Literal xml:lang="en">Frequency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure</IRI>
+        <Literal xml:lang="en">An alternative to qb:componentProperty which makes explicit that the component is a measure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measure</IRI>
+        <Literal xml:lang="en">Measure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureDimension</IRI>
+        <Literal xml:lang="en">An alternative to qb:componentProperty which makes explicit that the component is a measure dimension</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureDimension</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureDimension</IRI>
+        <Literal xml:lang="en">Measure Dimension</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureType</IRI>
+        <Literal xml:lang="en">Generic measure dimension, the value of this dimension indicates which measure (from the set of measures in the DSD) is being given by the obsValue (or other primary measure)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureType</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#measureType</IRI>
+        <Literal xml:lang="en">Measure Type</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation</IRI>
+        <Literal xml:lang="en">indicates a observation contained within this slice of the data set</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observation</IRI>
+        <Literal xml:lang="en">Observation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observationGroup</IRI>
+        <Literal xml:lang="en">Indicates a group of observations. The domain of this property is left open so that a group may be attached to different resources and need not be restricted to a single DataSet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observationGroup</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#observationGroup</IRI>
+        <Literal xml:lang="en">Observation Group</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryMeasure</IRI>
+        <Literal xml:lang="en">Indicates an additional component used as the primary measure within the SDMX data. In the case of multi-measure data sets the RDF representation uses the specific measure rather than a subsuming overall measure. This property records the subsuming primary measure (typically sdmx-measure:obsValue) to enable round tripping of this information.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#primaryMeasure</IRI>
+        <Literal xml:lang="en">Primary Measure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea</IRI>
+        <Literal xml:lang="en">The country or geographic area to which the measured statistical phenomenon relates.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea</IRI>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refArea</IRI>
+        <Literal xml:lang="en">Reference Area</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod</IRI>
+        <Literal xml:lang="en">The period of time or point in time to which the measured observation is intended to refer.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod</IRI>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#refPeriod</IRI>
+        <Literal xml:lang="en">Reference Period</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#regionTypes</IRI>
+        <Literal xml:lang="en">Region Types</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice</IRI>
+        <Literal xml:lang="en">Indicates a subset of a DataSet defined by fixing a subset of the dimensional values</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#slice</IRI>
+        <Literal xml:lang="en">slice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey</IRI>
+        <Literal>indicates a slice key which is used for slices in this dataset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceKey</IRI>
+        <Literal xml:lang="en">Slice Key</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure</IRI>
+        <Literal>indicates the sub-key corresponding to this slice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#sliceStructure</IRI>
+        <Literal>Slice Structure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure</IRI>
+        <Literal xml:lang="en">indicates the structure to which this data set conforms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure</IRI>
+        <IRI>http://purl.org/linked-data/cube</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#structure</IRI>
+        <Literal xml:lang="en">Structure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure</IRI>
+        <Literal>The unit in which the data values are measured.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure</IRI>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#unitMeasure</IRI>
+        <Literal>Unit Measure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/coverage"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">Nova Scotia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/description"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">This data shows how much each municipality receives in 911 grant funding on an annual basis.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/language"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">English</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/publisher"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">Open Data Nova Scotia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/title"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">911 Municipal Grants</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/created"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">2018-04-24</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/license"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">Nova Scotia Open Government Licence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/terms/modified"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal>2019-12-05</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal xml:lang="en">Usage Considerations: Grants are calcuated based on dwelling unit numbers that are received from Property Valuation Services Corporation (PVSC) in each January.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#metadataLastUpdated"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Cube</IRI>
+        <Literal>2020-06-01</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_DSD</IRI>
+        <Literal xml:lang="en">DSD for 911 Municipal Grants dataset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1</IRI>
+        <Literal xml:lang="en">Slice dataset observation 1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs1</IRI>
+        <Literal xml:lang="en">Observation 1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2</IRI>
+        <Literal xml:lang="en">Slice dataset observation 2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sdmx.org/wp-content/uploads/01_sdmx_cog_annex_1_cdc_2009.pdf#911MunicipalGrants_Slice_Obs2</IRI>
+        <Literal xml:lang="en">Observation 2</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
