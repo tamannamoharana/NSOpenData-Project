@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5f1ef5babcd7a48aa421a55b"},"name":"911 Municipal Grants","id":"911_Municipal_Grants",
+"description":"This data shows how much each municipality receives in 911 grant funding on an annual basis%",
+"type":"dataset","updatedAt":"2020-06-01T16:16:29.000Z","createdAt":"2018-04-24T13:14:48.000Z","data_updated_at":"2020-01-08T16:05:28.000Z",
+"metadata_updated_at":"2020-06-01T16:16:29.000Z","columns_field_name":["region","region_type","year","dwelling_count","funds_allotted"],
+"columns_name":["Region","Region Type","Year","Dwelling Count","Funds Allotted"],
+"columns_description":["","","","","","",""],"columns_dataytpe":[]}
+{"_id":{"$oid":"5f1ef5babcd7a48aa421a55c"},"categories":[],"domain_category":"Municipalities",
+"domain_metadata":[{"key":"Detailed-Metadata_Geographic-Region-Name","value":"Nova Scotia, Canada"},
+{"key":"Detailed-Metadata_Department","value":"Municipal Affairs and Housing"},
+{"key":"Detailed-Metadata_Usage-Considerations","value":"Grants are calcuated based on dwelling unit numbers that are received from Property Valuation Services Corporation (PVSC) in each January."},
+{"key":"Detailed-Metadata_Time-Period-Coverage","value":"2000-01-01/2017-12-31"},{"key":"Detailed-Metadata_Language","value":"eng"},
+{"key":"Detailed-Metadata_Frequency","value":"Annually"}]}
+{"_id":{"$oid":"5f1ef5babcd7a48aa421a55d"},"domain":"data.novascotia.ca"}
